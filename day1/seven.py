@@ -11,5 +11,6 @@ if week > 0:
     st += f'{week} weeks '
 if days > 0:
     st += f'{days} days'
-
+else:
+    print('Not a single day was entered.')
 print(st)
