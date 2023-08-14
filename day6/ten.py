@@ -3,11 +3,7 @@ lst2 = [7, 0, 90, 11, 75, 31]
 
 
 def common(l1, l2):
-    l3 = []
-    for item in l1:
-        if item in l2:
-            l3.append(item)
-    return l3
+    return list(set(l1) | set(l2))
 
 
 print(common(lst1, lst2))
