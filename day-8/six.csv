@@ -1,0 +1,13 @@
+Date,Product,Units Sold,Price per Unit,Total Revenue
+2023-01-01,Product A,10,50,500
+2023-01-02,Product B,5,100,500
+2023-01-03,Product A,7,50,350
+2023-01-04,Product C,3,200,600
+2023-01-05,Product B,8,100,800
+2023-01-06,Product A,15,50,750
+2023-01-07,Product C,6,200,1200
+2023-01-08,Product B,10,100,1000
+2023-01-09,Product A,9,50,450
+2023-01-10,Product C,4,200,800
+2023-01-11,Product B,12,100,1200
+2023-01-12,Product A,13,50,650
